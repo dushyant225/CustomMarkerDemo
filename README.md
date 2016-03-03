@@ -1,6 +1,6 @@
 # CustomMarkerDemo
 
-This is demo sample project to create a custom marker with images on android using google map API.
+This is sample project to create a custom marker with images(from URL or Drawable) on android using google map API.
 
 # How to build CustomMarkerDemo Project
 
