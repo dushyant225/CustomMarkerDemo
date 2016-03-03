@@ -12,7 +12,7 @@ This is demo sample project to create a custom marker with images on android usi
 
 2. Enter your Google Map API Key into this file:
     ```
-    gradle.poperties
+    gradle.properties
     ```
 3. Choose Build > Make Project in Android Studio
 4. To install on your test device:
